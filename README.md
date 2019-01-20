@@ -1,2 +1,2 @@
-# recepie-react-graphql
-Trying to learn React and graphql.
+# recepie-storage
+Trying to learn some stuf
