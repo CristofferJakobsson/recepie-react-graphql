@@ -1,2 +1,2 @@
 # recepie-storage
-Trying to learn some stuf
+Trying to learn some stuff
